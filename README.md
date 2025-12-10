@@ -1,9 +1,9 @@
 # Implementing-VPN-Solutions-with-FortiGate
 DEPI Graduation Project 
 ## Team Members
-Muhammed Haridy
-Shahd Yesen
-Shams Ibrahim
-Nada Bakr
-Jana Hany
-Merna Medhat
+Muhammed Haridy <br>
+Shahd Yesen <br>
+Shams Ibrahim <br>
+Nada Bakr <br>
+Jana Hany <br>
+Merna Medhat 
